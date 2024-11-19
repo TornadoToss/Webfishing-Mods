@@ -1,8 +1,8 @@
 id = "Erythtini.ReelBonusSpy"
 name = "ReelBonusSpy"
-description = "Mod that tells you when the reel catch rate bonus results in a catch (or when not having it results in a miss)."
-version = "0.1.0"
-homepage = "https://longdogechallenge.com/"
+description = "Tells you when the 1.1x catch rate bonus from recently reeling results in a catch (or when not having it results in a miss)."
+version = "1.0.0"
+homepage = "https://github.com/TornadoToss/Webfishing-Mods/tree/main/ReelBonusSpy"
 author = "Erythtini"
 
 icon = "icon.png"
