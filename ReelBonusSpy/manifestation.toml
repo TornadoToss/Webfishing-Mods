@@ -1,0 +1,16 @@
+id = "Erythtini.ReelBonusSpy"
+name = "ReelBonusSpy"
+description = "Mod that tells you when the reel catch rate bonus results in a catch (or when not having it results in a miss)."
+version = "0.1.0"
+homepage = "https://longdogechallenge.com/"
+author = "Erythtini"
+
+icon = "icon.png"
+readme = "README.md"
+
+[project]
+csharp = "./ReelBonusSpy/Erythtini.ReelBonusSpy.csproj"
+godot = "./project/project.godot"
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.14"
